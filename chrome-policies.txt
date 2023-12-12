@@ -13,3 +13,5 @@
 
 // Disable tracking of the users' physical location:
 "DefaultGeolocationSetting": 2,
+
+"ExtensionSettings": allowed,
